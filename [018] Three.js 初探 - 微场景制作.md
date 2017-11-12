@@ -33,7 +33,7 @@
 ```js
 var scene, camera
     var renderer
-    var width, width
+    var width, height
 
     var cars = []
     // var stats
